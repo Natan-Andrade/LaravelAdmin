@@ -11,7 +11,7 @@
 
 Este é um projeto CRUD simulando um sistema de gestão empresarial criado para fins de demonstração.
 
-Para Utilizar faça o download projeto e faça uma migração do banco de dados. 
+Para Utilizar faça o download do projeto e faça uma migração do banco de dados. 
 Basta digitar o seguinte comando no terminal:
 <code>php artisan migrate</code>
 
